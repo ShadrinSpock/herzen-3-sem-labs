@@ -1,5 +1,4 @@
 # herzen-3-sem-labs
-<!DOCTYPE html>
 <html>
  <body>
     <svg  width="100%" height="500" >
